@@ -1,0 +1,268 @@
+City,Activity,Category,Interest,Price,Link
+London,Hyde Park,parks,8,0,https://www.royalparks.org.uk/hyde-park
+London,Regent's Park,parks,8,0,https://www.royalparks.org.uk/regents-park
+London,Richmond Park,parks,8,0,https://www.royalparks.org.uk/richmond-park
+London,St James's Park,parks,8,0,https://www.royalparks.org.uk/st-jamess-park
+London,Greenwich Park,parks,8,0,https://www.royalparks.org.uk/greenwich-park
+London,Kensington Gardens,parks,8,0,https://www.royalparks.org.uk/kensington-gardens
+London,Victoria Park,parks,8,0,https://www.royalparks.org.uk/victoria-park
+London,Battersea Park,parks,8,0,https://www.royalparks.org.uk/battersea-park
+London,Hampstead Heath,parks,8,0,https://www.royalparks.org.uk/hampstead-heath
+London,Crystal Palace Park,parks,8,0,https://www.royalparks.org.uk/crystal-palace-park
+London,Holland Park,parks,8,0,https://www.royalparks.org.uk/holland-park
+London,Clapham Common,parks,8,0,https://www.royalparks.org.uk/clapham-common
+London,Brockwell Park,parks,8,0,https://www.royalparks.org.uk/brockwell-park
+London,Dulwich Park,parks,8,0,https://www.royalparks.org.uk/dulwich-park
+London,Finsbury Park,parks,8,0,https://www.royalparks.org.uk/finsbury-park
+London,Green Park,parks,8,0,https://www.royalparks.org.uk/green-park
+London,Primrose Hill,parks,8,0,https://www.royalparks.org.uk/primrose-hill
+London,London Fields,parks,8,0,https://www.royalparks.org.uk/london-fields
+London,Bushy Park,parks,8,0,https://www.royalparks.org.uk/bushy-park
+London,Lee Valley Regional Park,parks,8,0,https://www.royalparks.org.uk/lee-valley-regional-park
+London,Big Ben,arch,9,20,https://visitlondon.com/things-to-do/place/big-ben
+London,Tower of London,arch,9,0,https://visitlondon.com/things-to-do/place/tower-of-london
+London,Buckingham Palace,arch,9,20,https://visitlondon.com/things-to-do/place/buckingham-palace
+London,Westminster Abbey,arch,9,0,https://visitlondon.com/things-to-do/place/westminster-abbey
+London,St Paul's Cathedral,arch,9,20,https://visitlondon.com/things-to-do/place/st-pauls-cathedral
+London,Tower Bridge,arch,9,0,https://visitlondon.com/things-to-do/place/tower-bridge
+London,The Shard,arch,9,20,https://visitlondon.com/things-to-do/place/the-shard
+London,London Eye,arch,9,0,https://visitlondon.com/things-to-do/place/london-eye
+London,Houses of Parliament,arch,9,20,https://visitlondon.com/things-to-do/place/houses-of-parliament
+London,Trafalgar Square,arch,9,0,https://visitlondon.com/things-to-do/place/trafalgar-square
+London,Piccadilly Circus,arch,9,20,https://visitlondon.com/things-to-do/place/piccadilly-circus
+London,Kensington Palace,arch,9,0,https://visitlondon.com/things-to-do/place/kensington-palace
+London,Hampton Court Palace,arch,9,20,https://visitlondon.com/things-to-do/place/hampton-court-palace
+London,The Monument,arch,9,0,https://visitlondon.com/things-to-do/place/the-monument
+London,Royal Albert Hall,arch,9,20,https://visitlondon.com/things-to-do/place/royal-albert-hall
+London,Shakespeare's Globe,arch,9,0,https://visitlondon.com/things-to-do/place/shakespeares-globe
+London,Somerset House,arch,9,20,https://visitlondon.com/things-to-do/place/somerset-house
+London,Battersea Power Station,arch,9,0,https://visitlondon.com/things-to-do/place/battersea-power-station
+London,The Gherkin,arch,9,20,https://visitlondon.com/things-to-do/place/the-gherkin
+London,Walkie Talkie,arch,9,0,https://visitlondon.com/things-to-do/place/walkie-talkie
+London,Leadenhall Building,arch,9,20,https://visitlondon.com/things-to-do/place/leadenhall-building
+London,Lloyd's Building,arch,9,0,https://visitlondon.com/things-to-do/place/lloyds-building
+London,Marble Arch,arch,9,20,https://visitlondon.com/things-to-do/place/marble-arch
+London,Wellington Arch,arch,9,0,https://visitlondon.com/things-to-do/place/wellington-arch
+London,Royal Exchange,arch,9,20,https://visitlondon.com/things-to-do/place/royal-exchange
+London,Mansion House,arch,9,0,https://visitlondon.com/things-to-do/place/mansion-house
+London,Guildhall,arch,9,20,https://visitlondon.com/things-to-do/place/guildhall
+London,Temple Church,arch,9,0,https://visitlondon.com/things-to-do/place/temple-church
+London,Southwark Cathedral,arch,9,20,https://visitlondon.com/things-to-do/place/southwark-cathedral
+London,Westminster Cathedral,arch,9,0,https://visitlondon.com/things-to-do/place/westminster-cathedral
+London,Borough Market,markets,8,0,https://visitlondon.com/things-to-do/place/borough-market
+London,Camden Market,markets,8,0,https://visitlondon.com/things-to-do/place/camden-market
+London,Portobello Road Market,markets,8,0,https://visitlondon.com/things-to-do/place/portobello-road-market
+London,Brick Lane Market,markets,8,0,https://visitlondon.com/things-to-do/place/brick-lane-market
+London,Spitalfields Market,markets,8,0,https://visitlondon.com/things-to-do/place/spitalfields-market
+London,Covent Garden Market,markets,8,0,https://visitlondon.com/things-to-do/place/covent-garden-market
+London,Greenwich Market,markets,8,0,https://visitlondon.com/things-to-do/place/greenwich-market
+London,Columbia Road Flower Market,markets,8,0,https://visitlondon.com/things-to-do/place/columbia-road-flower-market
+London,Leadenhall Market,markets,8,0,https://visitlondon.com/things-to-do/place/leadenhall-market
+London,Brixton Village,markets,8,0,https://visitlondon.com/things-to-do/place/brixton-village
+London,Maltby Street Market,markets,8,0,https://visitlondon.com/things-to-do/place/maltby-street-market
+London,Broadway Market,markets,8,0,https://visitlondon.com/things-to-do/place/broadway-market
+London,Southbank Centre Food Market,markets,8,0,https://visitlondon.com/things-to-do/place/southbank-centre-food-market
+London,Petticoat Lane Market,markets,8,0,https://visitlondon.com/things-to-do/place/petticoat-lane-market
+London,Mercato Mayfair,markets,8,0,https://visitlondon.com/things-to-do/place/mercato-mayfair
+London,Mercato Metropolitano,markets,8,0,https://visitlondon.com/things-to-do/place/mercato-metropolitano
+London,Seven Dials Market,markets,8,0,https://visitlondon.com/things-to-do/place/seven-dials-market
+London,Boxpark Shoreditch,markets,8,0,https://visitlondon.com/things-to-do/place/boxpark-shoreditch
+London,Boxpark Croydon,markets,8,0,https://visitlondon.com/things-to-do/place/boxpark-croydon
+London,Alfies Antique Market,markets,8,0,https://visitlondon.com/things-to-do/place/alfies-antique-market
+London,British Museum,museums,9,0,https://visitlondon.com/things-to-do/place/british-museum
+London,Natural History Museum,museums,9,0,https://visitlondon.com/things-to-do/place/natural-history-museum
+London,Victoria and Albert Museum,museums,9,0,https://visitlondon.com/things-to-do/place/victoria-and-albert-museum
+London,Science Museum,museums,9,0,https://visitlondon.com/things-to-do/place/science-museum
+London,Tate Modern,museums,9,0,https://visitlondon.com/things-to-do/place/tate-modern
+London,National Gallery,museums,9,0,https://visitlondon.com/things-to-do/place/national-gallery
+London,Tate Britain,museums,9,0,https://visitlondon.com/things-to-do/place/tate-britain
+London,Design Museum,museums,9,0,https://visitlondon.com/things-to-do/place/design-museum
+London,Museum of London,museums,9,0,https://visitlondon.com/things-to-do/place/museum-of-london
+London,Imperial War Museum,museums,9,0,https://visitlondon.com/things-to-do/place/imperial-war-museum
+London,National Maritime Museum,museums,9,0,https://visitlondon.com/things-to-do/place/national-maritime-museum
+London,Royal Observatory,museums,9,0,https://visitlondon.com/things-to-do/place/royal-observatory
+London,Wallace Collection,museums,9,0,https://visitlondon.com/things-to-do/place/wallace-collection
+London,National Portrait Gallery,museums,9,0,https://visitlondon.com/things-to-do/place/national-portrait-gallery
+London,Churchill War Rooms,museums,9,30,https://visitlondon.com/things-to-do/place/churchill-war-rooms
+London,London Transport Museum,museums,9,0,https://visitlondon.com/things-to-do/place/london-transport-museum
+London,Horniman Museum,museums,9,0,https://visitlondon.com/things-to-do/place/horniman-museum
+London,Sir John Soane's Museum,museums,9,0,https://visitlondon.com/things-to-do/place/sir-john-soanes-museum
+London,Saatchi Gallery,museums,9,0,https://visitlondon.com/things-to-do/place/saatchi-gallery
+London,Royal Academy of Arts,museums,9,0,https://visitlondon.com/things-to-do/place/royal-academy-of-arts
+London,Whitechapel Gallery,museums,9,0,https://visitlondon.com/things-to-do/place/whitechapel-gallery
+London,Courtauld Gallery,museums,9,0,https://visitlondon.com/things-to-do/place/courtauld-gallery
+London,Dulwich Picture Gallery,museums,9,0,https://visitlondon.com/things-to-do/place/dulwich-picture-gallery
+London,Museum of Home,museums,9,0,https://visitlondon.com/things-to-do/place/museum-of-home
+London,Foundling Museum,museums,9,0,https://visitlondon.com/things-to-do/place/foundling-museum
+London,Florence Nightingale Museum,museums,9,0,https://visitlondon.com/things-to-do/place/florence-nightingale-museum
+London,Charles Dickens Museum,museums,9,0,https://visitlondon.com/things-to-do/place/charles-dickens-museum
+London,Freud Museum,museums,9,0,https://visitlondon.com/things-to-do/place/freud-museum
+London,Wellcome Collection,museums,9,0,https://visitlondon.com/things-to-do/place/wellcome-collection
+London,London Canal Museum,museums,9,0,https://visitlondon.com/things-to-do/place/london-canal-museum
+London,Thames River Cruise,tours,7,35,https://www.getyourguide.com/london-l57/thames-river-cruise
+London,Jack the Ripper Tour,tours,7,35,https://www.getyourguide.com/london-l57/jack-the-ripper-tour
+London,Harry Potter Studio Tour,tours,7,35,https://www.getyourguide.com/london-l57/harry-potter-studio-tour
+London,Hop-On Hop-Off Bus,tours,7,35,https://www.getyourguide.com/london-l57/hop-on-hop-off-bus
+London,London Stadium Tour,tours,7,35,https://www.getyourguide.com/london-l57/london-stadium-tour
+London,Wembley Stadium Tour,tours,7,35,https://www.getyourguide.com/london-l57/wembley-stadium-tour
+London,Emirates Stadium Tour,tours,7,35,https://www.getyourguide.com/london-l57/emirates-stadium-tour
+London,Wimbledon Tour,tours,7,35,https://www.getyourguide.com/london-l57/wimbledon-tour
+London,Twickenham Tour,tours,7,35,https://www.getyourguide.com/london-l57/twickenham-tour
+London,Lord's Cricket Ground Tour,tours,7,35,https://www.getyourguide.com/london-l57/lord's-cricket-ground-tour
+London,Ghost Walk Tour,tours,7,35,https://www.getyourguide.com/london-l57/ghost-walk-tour
+London,Street Art Tour Shoreditch,tours,7,35,https://www.getyourguide.com/london-l57/street-art-tour-shoreditch
+London,Pub Crawl West End,tours,7,35,https://www.getyourguide.com/london-l57/pub-crawl-west-end
+London,Food Tour Soho,tours,7,35,https://www.getyourguide.com/london-l57/food-tour-soho
+London,Bicycle Tour Central London,tours,7,35,https://www.getyourguide.com/london-l57/bicycle-tour-central-london
+Dublin,The Temple Bar Pub,arch,9,10,https://www.dublinpubs.ie/the-temple-bar-pub
+Dublin,The Brazen Head,arch,9,10,https://www.dublinpubs.ie/the-brazen-head
+Dublin,Oliver St. John Gogarty,arch,9,10,https://www.dublinpubs.ie/oliver-st-john-gogarty
+Dublin,The Palace Bar,arch,9,10,https://www.dublinpubs.ie/the-palace-bar
+Dublin,O'Donoghue's Bar,arch,9,10,https://www.dublinpubs.ie/odonoghues-bar
+Dublin,Kehoes Pub,arch,9,10,https://www.dublinpubs.ie/kehoes-pub
+Dublin,The Stag's Head,arch,9,10,https://www.dublinpubs.ie/the-stags-head
+Dublin,Mulligan's,arch,9,10,https://www.dublinpubs.ie/mulligans
+Dublin,The Long Hall,arch,9,10,https://www.dublinpubs.ie/the-long-hall
+Dublin,Toners Pub,arch,9,10,https://www.dublinpubs.ie/toners-pub
+Dublin,The Cobblestone,arch,9,10,https://www.dublinpubs.ie/the-cobblestone
+Dublin,L. Mulligan Grocer,arch,9,10,https://www.dublinpubs.ie/l-mulligan-grocer
+Dublin,The Dawson Lounge,arch,9,10,https://www.dublinpubs.ie/the-dawson-lounge
+Dublin,Panti Bar,arch,9,10,https://www.dublinpubs.ie/panti-bar
+Dublin,Whelan's,arch,9,10,https://www.dublinpubs.ie/whelans
+Dublin,John Kavanagh The Gravediggers,arch,9,10,https://www.dublinpubs.ie/john-kavanagh-the-gravediggers
+Dublin,Grogan's Castle Lounge,arch,9,10,https://www.dublinpubs.ie/grogans-castle-lounge
+Dublin,The Celt,arch,9,10,https://www.dublinpubs.ie/the-celt
+Dublin,Foley's Bar,arch,9,10,https://www.dublinpubs.ie/foleys-bar
+Dublin,McDaid's,arch,9,10,https://www.dublinpubs.ie/mcdaids
+Dublin,Guinness Storehouse,tours,9,30,https://www.visitdublin.com/guinness-storehouse
+Dublin,Jameson Distillery,tours,9,25,https://www.visitdublin.com/jameson-distillery
+Dublin,Trinity College Library,arch,9,18,https://www.visitdublin.com/trinity-college-library
+Dublin,Dublin Castle,arch,9,8,https://www.visitdublin.com/dublin-castle
+Dublin,St Stephen's Green,parks,9,0,https://www.visitdublin.com/st-stephens-green
+Dublin,Phoenix Park,parks,9,0,https://www.visitdublin.com/phoenix-park
+Dublin,National Museum of Ireland,museums,9,0,https://www.visitdublin.com/national-museum-of-ireland
+Oxford,Christ Church College,arch,8,15,https://oxfordcity.co.uk/christ-church-college
+Oxford,Bodleian Library,arch,8,10,https://oxfordcity.co.uk/bodleian-library
+Oxford,Radcliffe Camera,arch,8,0,https://oxfordcity.co.uk/radcliffe-camera
+Oxford,Ashmolean Museum,museums,8,0,https://oxfordcity.co.uk/ashmolean-museum
+Oxford,Oxford Botanic Garden,parks,8,6,https://oxfordcity.co.uk/oxford-botanic-garden
+Oxford,Pitt Rivers Museum,museums,8,0,https://oxfordcity.co.uk/pitt-rivers-museum
+Oxford,Oxford University Museum of Natural History,museums,8,0,https://oxfordcity.co.uk/oxford-university-museum-of-natural-history
+Oxford,Bridge of Sighs,arch,8,0,https://oxfordcity.co.uk/bridge-of-sighs
+Oxford,Punting on the Cherwell,tours,8,20,https://oxfordcity.co.uk/punting-on-the-cherwell
+Oxford,Oxford Castle & Prison,tours,8,14,https://oxfordcity.co.uk/oxford-castle-&-prison
+Oxford,Covered Market,markets,8,0,https://oxfordcity.co.uk/covered-market
+Oxford,Sheldonian Theatre,arch,8,4,https://oxfordcity.co.uk/sheldonian-theatre
+Oxford,Magdalen College,arch,8,8,https://oxfordcity.co.uk/magdalen-college
+Oxford,University Church of St Mary the Virgin,arch,8,5,https://oxfordcity.co.uk/university-church-of-st-mary-the-virgin
+Oxford,Blenheim Palace Tour,tours,8,35,https://oxfordcity.co.uk/blenheim-palace-tour
+Oxford,History of Science Museum,museums,8,0,https://oxfordcity.co.uk/history-of-science-museum
+Oxford,Alice in Wonderland Shop,markets,8,0,https://oxfordcity.co.uk/alice-in-wonderland-shop
+Oxford,Port Meadow,parks,8,0,https://oxfordcity.co.uk/port-meadow
+Oxford,Martyrs' Memorial,arch,8,0,https://oxfordcity.co.uk/martyrs-memorial
+Oxford,Eagle and Child Pub,arch,8,10,https://oxfordcity.co.uk/eagle-and-child-pub
+Oxford,Turf Tavern,arch,8,10,https://oxfordcity.co.uk/turf-tavern
+Oxford,New College,arch,8,8,https://oxfordcity.co.uk/new-college
+Oxford,Keble College,arch,8,0,https://oxfordcity.co.uk/keble-college
+Oxford,Bate Collection of Musical Instruments,museums,8,0,https://oxfordcity.co.uk/bate-collection-of-musical-instruments
+Oxford,South Park,parks,8,0,https://oxfordcity.co.uk/south-park
+Cambridge,King's College Chapel,arch,8,10,https://www.visitcambridge.org/kings-college-chapel
+Cambridge,Punting on the Cam,tours,8,20,https://www.visitcambridge.org/punting-on-the-cam
+Cambridge,Fitzwilliam Museum,museums,8,0,https://www.visitcambridge.org/fitzwilliam-museum
+Cambridge,Cambridge University Botanic Garden,parks,8,7,https://www.visitcambridge.org/cambridge-university-botanic-garden
+Cambridge,The Backs,parks,8,0,https://www.visitcambridge.org/the-backs
+Cambridge,Trinity College,arch,8,5,https://www.visitcambridge.org/trinity-college
+Cambridge,Bridge of Sighs Cambridge,arch,8,0,https://www.visitcambridge.org/bridge-of-sighs-cambridge
+Cambridge,Mathematical Bridge,arch,8,0,https://www.visitcambridge.org/mathematical-bridge
+Cambridge,Market Square,markets,8,0,https://www.visitcambridge.org/market-square
+Cambridge,Sedgwick Museum of Earth Sciences,museums,8,0,https://www.visitcambridge.org/sedgwick-museum-of-earth-sciences
+Cambridge,Museum of Archaeology and Anthropology,museums,8,0,https://www.visitcambridge.org/museum-of-archaeology-and-anthropology
+Cambridge,Polar Museum,museums,8,0,https://www.visitcambridge.org/polar-museum
+Cambridge,Great St Mary's Tower,arch,8,6,https://www.visitcambridge.org/great-st-marys-tower
+Cambridge,Corpus Clock,arch,8,0,https://www.visitcambridge.org/corpus-clock
+Cambridge,Round Church,arch,8,3,https://www.visitcambridge.org/round-church
+Cambridge,Kettle's Yard,museums,8,0,https://www.visitcambridge.org/kettles-yard
+Cambridge,St John's College,arch,8,10,https://www.visitcambridge.org/st-johns-college
+Cambridge,Eagle Pub,arch,8,10,https://www.visitcambridge.org/eagle-pub
+Cambridge,Jesus Green,parks,8,0,https://www.visitcambridge.org/jesus-green
+Cambridge,Midsummer Common,parks,8,0,https://www.visitcambridge.org/midsummer-common
+Cambridge,Parker's Piece,parks,8,0,https://www.visitcambridge.org/parkers-piece
+Cambridge,Wandlebury Country Park,parks,8,0,https://www.visitcambridge.org/wandlebury-country-park
+Cambridge,Anglesey Abbey Tour,tours,8,15,https://www.visitcambridge.org/anglesey-abbey-tour
+Cambridge,Cambridge Museum of Technology,museums,8,5,https://www.visitcambridge.org/cambridge-museum-of-technology
+Cambridge,Mill Road Winter Fair,markets,8,0,https://www.visitcambridge.org/mill-road-winter-fair
+Norwich,Norwich Cathedral,arch,7,0,https://www.visitnorwich.co.uk/norwich-cathedral
+Norwich,Norwich Castle,museums,7,7,https://www.visitnorwich.co.uk/norwich-castle
+Norwich,Norwich Market,markets,7,0,https://www.visitnorwich.co.uk/norwich-market
+Norwich,Elm Hill,arch,7,0,https://www.visitnorwich.co.uk/elm-hill
+Norwich,Plantation Garden,parks,7,2,https://www.visitnorwich.co.uk/plantation-garden
+Norwich,Sainsbury Centre for Visual Arts,museums,7,0,https://www.visitnorwich.co.uk/sainsbury-centre-for-visual-arts
+Norwich,Museum of Norwich at the Bridewell,museums,7,6,https://www.visitnorwich.co.uk/museum-of-norwich-at-the-bridewell
+Norwich,Strangers' Hall,museums,7,5,https://www.visitnorwich.co.uk/strangers-hall
+Norwich,Whitlingham Country Park,parks,7,0,https://www.visitnorwich.co.uk/whitlingham-country-park
+Norwich,Eaton Park,parks,7,0,https://www.visitnorwich.co.uk/eaton-park
+Norwich,Tombland,arch,7,0,https://www.visitnorwich.co.uk/tombland
+Norwich,Cow Tower,arch,7,0,https://www.visitnorwich.co.uk/cow-tower
+Norwich,Pull's Ferry,arch,7,0,https://www.visitnorwich.co.uk/pulls-ferry
+Norwich,Norwich Ghost Tour,tours,7,10,https://www.visitnorwich.co.uk/norwich-ghost-tour
+Norwich,Dragon Hall,arch,7,0,https://www.visitnorwich.co.uk/dragon-hall
+Norwich,Royal Arcade,markets,7,0,https://www.visitnorwich.co.uk/royal-arcade
+Norwich,St Peter Mancroft,arch,7,0,https://www.visitnorwich.co.uk/st-peter-mancroft
+Norwich,The Forum,arch,7,0,https://www.visitnorwich.co.uk/the-forum
+Norwich,Julian Shrine,arch,7,0,https://www.visitnorwich.co.uk/julian-shrine
+Norwich,City of Ale Trail,tours,7,15,https://www.visitnorwich.co.uk/city-of-ale-trail
+Norwich,Wensum River Walk,parks,7,0,https://www.visitnorwich.co.uk/wensum-river-walk
+Norwich,Mousehold Heath,parks,7,0,https://www.visitnorwich.co.uk/mousehold-heath
+Norwich,Assembly House,arch,7,0,https://www.visitnorwich.co.uk/assembly-house
+Norwich,Maddermarket Theatre,arch,7,0,https://www.visitnorwich.co.uk/maddermarket-theatre
+Norwich,St James Mill,arch,7,0,https://www.visitnorwich.co.uk/st-james-mill
+Bath,Roman Baths,museums,9,27,https://visitbath.co.uk/roman-baths
+Bath,Bath Abbey,arch,9,0,https://visitbath.co.uk/bath-abbey
+Bath,Pulteney Bridge,arch,9,0,https://visitbath.co.uk/pulteney-bridge
+Bath,Royal Crescent,arch,9,0,https://visitbath.co.uk/royal-crescent
+Bath,The Circus,arch,9,0,https://visitbath.co.uk/the-circus
+Bath,Thermae Bath Spa,tours,9,40,https://visitbath.co.uk/thermae-bath-spa
+Bath,Jane Austen Centre,museums,9,12,https://visitbath.co.uk/jane-austen-centre
+Bath,Prior Park Landscape Garden,parks,9,8,https://visitbath.co.uk/prior-park-landscape-garden
+Bath,Holburne Museum,museums,9,12,https://visitbath.co.uk/holburne-museum
+Bath,Fashion Museum,museums,9,10,https://visitbath.co.uk/fashion-museum
+Bath,Victoria Art Gallery,museums,9,0,https://visitbath.co.uk/victoria-art-gallery
+Bath,Bath Skyline Walk,parks,9,0,https://visitbath.co.uk/bath-skyline-walk
+Bath,Guildhall Market,markets,9,0,https://visitbath.co.uk/guildhall-market
+Bath,Sally Lunn's Historic Eating House,arch,9,0,https://visitbath.co.uk/sally-lunns-historic-eating-house
+Bath,Assembly Rooms,arch,9,0,https://visitbath.co.uk/assembly-rooms
+Bath,Mary Shelley's House of Frankenstein,museums,9,15,https://visitbath.co.uk/mary-shelleys-house-of-frankenstein
+Bath,Sydney Gardens,parks,9,0,https://visitbath.co.uk/sydney-gardens
+Bath,Parade Gardens,parks,9,2,https://visitbath.co.uk/parade-gardens
+Bath,Royal Victoria Park,parks,9,0,https://visitbath.co.uk/royal-victoria-park
+Bath,Bath Boat Tours,tours,9,15,https://visitbath.co.uk/bath-boat-tours
+Bath,Ghost Tours of Bath,tours,9,12,https://visitbath.co.uk/ghost-tours-of-bath
+Bath,Green Park Station Market,markets,9,0,https://visitbath.co.uk/green-park-station-market
+Bath,Herschel Museum of Astronomy,museums,9,7,https://visitbath.co.uk/herschel-museum-of-astronomy
+Bath,Museum of Bath Architecture,museums,9,6,https://visitbath.co.uk/museum-of-bath-architecture
+Bath,Bath Postal Museum,museums,9,5,https://visitbath.co.uk/bath-postal-museum
+Bray,Bray Head Cliff Walk,parks,7,0,https://www.discoverireland.ie/bray-head-cliff-walk
+Bray,SEA LIFE Bray,museums,7,15,https://www.discoverireland.ie/sea-life-bray
+Bray,Bray Promenade,parks,7,0,https://www.discoverireland.ie/bray-promenade
+Bray,Killruddery House and Gardens,parks,7,8,https://www.discoverireland.ie/killruddery-house-and-gardens
+Bray,Harbour Bar Bray,arch,7,10,https://www.discoverireland.ie/harbour-bar-bray
+Bray,Mermaid County Wicklow Arts Centre,museums,7,0,https://www.discoverireland.ie/mermaid-county-wicklow-arts-centre
+Bray,Bray to Greystones Cliff Walk,tours,7,0,https://www.discoverireland.ie/bray-to-greystones-cliff-walk
+Bray,Festina Lente Equestrian Centre,tours,7,20,https://www.discoverireland.ie/festina-lente-equestrian-centre
+Bray,Bray Head Cross,arch,7,0,https://www.discoverireland.ie/bray-head-cross
+Bray,Bray Town Hall,arch,7,0,https://www.discoverireland.ie/bray-town-hall
+Howth,Howth Cliff Walk,parks,7,0,https://www.discoverireland.ie/howth-cliff-walk
+Howth,Howth Market,markets,7,0,https://www.discoverireland.ie/howth-market
+Howth,Howth Castle,arch,7,0,https://www.discoverireland.ie/howth-castle
+Howth,National Transport Museum Howth,museums,7,5,https://www.discoverireland.ie/national-transport-museum-howth
+Howth,Ireland's Eye Ferries,tours,7,20,https://www.discoverireland.ie/irelands-eye-ferries
+Howth,Baily Lighthouse,arch,7,0,https://www.discoverireland.ie/baily-lighthouse
+Howth,The Summit Howth,parks,7,0,https://www.discoverireland.ie/the-summit-howth
+Howth,Howth Harbour,parks,7,0,https://www.discoverireland.ie/howth-harbour
+Howth,St Mary's Abbey Howth,arch,7,0,https://www.discoverireland.ie/st-marys-abbey-howth
+Howth,Ye Olde Hurdy-Gurdy Museum of Vintage Radio,museums,7,5,https://www.discoverireland.ie/ye-olde-hurdy-gurdy-museum-of-vintage-radio
+Howth,Aqua Restaurant Howth (Pier),arch,7,0,https://www.discoverireland.ie/aqua-restaurant-howth-(pier)
+Howth,Howth Hidden Boat Tour,tours,7,25,https://www.discoverireland.ie/howth-hidden-boat-tour
+Malahide,Malahide Castle,arch,7,14,https://www.discoverireland.ie/malahide-castle
+Malahide,Malahide Gardens,parks,7,0,https://www.discoverireland.ie/malahide-gardens
+Malahide,Toots the Malahide Road Train,tours,7,6,https://www.discoverireland.ie/toots-the-malahide-road-train
