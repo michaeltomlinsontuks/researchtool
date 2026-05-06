@@ -108,7 +108,7 @@ export default function App() {
     lines.slice(startIndex).forEach(line => {
       if (!line.trim()) return;
       // Regex to handle quoted CSV fields
-      const parts = line.match(/(".*?"|[^",\s]+)(?=\s*,|\s*$)/g);
+      const parts = line.split(/,(?=(?:(?:[^"]*"){2})*[^"]*$)/);
       if (!parts || parts.length < 3) return;
       
       const [city, name, cat, interest, price, link] = parts.map(s => s.replace(/^"|"$/g, '').trim());
